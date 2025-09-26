@@ -1,32 +1,73 @@
 {
   "name": "MegaSource",
   "identifier": "megasource.toninomontana",
-  "subtitle": "Test",
-  "description": "Provisional JSON para comprobar Pages",
-  "website": "https://github.com/m264921/MegaSource",
-  "apps": [
+  "apps": [],
+  "sources": [
     {
-      "name": "Placeholder App",
-      "bundleIdentifier": "com.m264921.placeholder",
-      "developerName": "MegaSource",
-      "subtitle": "Solo para validar Pages",
-      "localizedDescription": "Esta app de ejemplo permite verificar que GitHub Pages esta entregando correctamente el JSON.",
-      "iconURL": "https://raw.githubusercontent.com/m264921/MegaSource/main/icon.png",
-      "tintColor": "0A84FF",
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "0.0.1",
-          "date": "2025-09-26T00:00:00-05:00",
-          "localizedDescription": "Placeholder temporal mientras se genera el catalogo real.",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_1.ipa",
-          "size": 32862407,
-          "sha256": "045c2b812361feb147ae85105c83d9964a852b9ed4542ad4b2f399f757b51af7",
-          "minOSVersion": "14.0"
-        }
-      ]
+      "url": "https://ipa.cypwn.xyz/cypwn.json"
+    },
+    {
+      "url": "https://bit.ly/Quantumsource"
+    },
+    {
+      "url": "https://bit.ly/Quantumsource-plus"
+    },
+    {
+      "url": "https://bit.ly/wuxuslibraryplus"
+    },
+    {
+      "url": "https://bit.ly/Altstore-complete"
+    },
+    {
+      "url": "https://altstore.oatmealdome.me/"
+    },
+    {
+      "url": "https://flyinghead.github.io/flycast-builds/altstore.json"
+    },
+    {
+      "url": "https://burritosoftware.github.io/altstore/channels/burritosource.json"
+    },
+    {
+      "url": "https://alts.lao.sb"
+    },
+    {
+      "url": "https://floridaman7588.me/altjb/altsource.json"
+    },
+    {
+      "url": "https://pokemmo.com/altstore/"
+    },
+    {
+      "url": "https://alt.getutm.app"
+    },
+    {
+      "url": "https://theodyssey.dev/altstore/odysseysource.json"
+    },
+    {
+      "url": "https://taurine.app/altstore/taurinestore.json"
+    },
+    {
+      "url": "https://altstore.9ani.app"
+    },
+    {
+      "url": "https://randomblock1.com/altstore/apps.json"
+    },
+    {
+      "url": "https://provenance-emu.com/apps.json"
+    },
+    {
+      "url": "https://bit.ly/40Isul6"
+    },
+    {
+      "url": "https://ish.app/altstore.json"
+    },
+    {
+      "url": "https://community-apps.sidestore.io/sidecommunity.json"
+    },
+    {
+      "url": "https://repo.starfiles.co/public?gbox"
+    },
+    {
+      "url": "https://repo.apptesters.org"
     }
-  ],
-  "news": [],
-  "featuredApps": []
+  ]
 }

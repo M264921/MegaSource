@@ -3,7 +3,6 @@
   "identifier": "megasource.toninomontana",
   "subtitle": "Test",
   "description": "Provisional JSON para comprobar Pages",
-  "sourceURL": "https://m264921.github.io/MegaSource/MegaSource.json",
   "website": "https://github.com/m264921/MegaSource",
   "apps": [
     {
@@ -12,9 +11,8 @@
       "developerName": "MegaSource",
       "subtitle": "Solo para validar Pages",
       "localizedDescription": "Esta app de ejemplo permite verificar que GitHub Pages esta entregando correctamente el JSON.",
-      "iconURL": "https://cdn.altstore.io/file/altstore/images/altstore/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/m264921/MegaSource/main/icon.png",
       "tintColor": "0A84FF",
-      "permissions": [],
       "screenshotURLs": [],
       "versions": [
         {
@@ -29,28 +27,6 @@
       ]
     }
   ],
-  "sources": [
-    { "url": "https://ipa.cypwn.xyz/cypwn.json" },
-    { "url": "https://bit.ly/Quantumsource" },
-    { "url": "https://bit.ly/Quantumsource-plus" },
-    { "url": "https://bit.ly/wuxuslibraryplus" },
-    { "url": "https://bit.ly/Altstore-complete" },
-    { "url": "https://altstore.oatmealdome.me/" },
-    { "url": "https://flyinghead.github.io/flycast-builds/altstore.json" },
-    { "url": "https://burritosoftware.github.io/altstore/channels/burritosource.json" },
-    { "url": "https://alts.lao.sb" },
-    { "url": "https://floridaman7588.me/altjb/altsource.json" },
-    { "url": "https://pokemmo.com/altstore/" },
-    { "url": "https://alt.getutm.app" },
-    { "url": "https://theodyssey.dev/altstore/odysseysource.json" },
-    { "url": "https://taurine.app/altstore/taurinestore.json" },
-    { "url": "https://altstore.9ani.app" },
-    { "url": "https://randomblock1.com/altstore/apps.json" },
-    { "url": "https://provenance-emu.com/apps.json" },
-    { "url": "https://bit.ly/40Isul6" },
-    { "url": "https://ish.app/altstore.json" },
-    { "url": "https://community-apps.sidestore.io/sidecommunity.json" },
-    { "url": "https://repo.starfiles.co/public?gbox" },
-    { "url": "https://repo.apptesters.org" }
-  ]
+  "news": [],
+  "featuredApps": []
 }

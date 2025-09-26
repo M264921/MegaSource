@@ -1,29 +1,24 @@
-﻿{
+{
   "name": "MegaSource",
-  "identifier": "megasource.toninomontana",
-  "apps": [],
-  "sources": [
-    { "url": "https://ipa.cypwn.xyz/cypwn.json" },
-    { "url": "https://bit.ly/Quantumsource" },
-    { "url": "https://bit.ly/Quantumsource-plus" },
-    { "url": "https://bit.ly/wuxuslibraryplus" },
-    { "url": "https://bit.ly/Altstore-complete" },
-    { "url": "https://altstore.oatmealdome.me/" },
-    { "url": "https://flyinghead.github.io/flycast-builds/altstore.json" },
-    { "url": "https://burritosoftware.github.io/altstore/channels/burritosource.json" },
-    { "url": "https://alts.lao.sb" },
-    { "url": "https://floridaman7588.me/altjb/altsource.json" },
-    { "url": "https://pokemmo.com/altstore/" },
-    { "url": "https://alt.getutm.app" },
-    { "url": "https://theodyssey.dev/altstore/odysseysource.json" },
-    { "url": "https://taurine.app/altstore/taurinestore.json" },
-    { "url": "https://altstore.9ani.app" },
-    { "url": "https://randomblock1.com/altstore/apps.json" },
-    { "url": "https://provenance-emu.com/apps.json" },
-    { "url": "https://bit.ly/40Isul6" },
-    { "url": "https://ish.app/altstore.json" },
-    { "url": "https://community-apps.sidestore.io/sidecommunity.json" },
-    { "url": "https://repo.starfiles.co/public?gbox" },
-    { "url": "https://repo.apptesters.org" }
+  "subtitle": "Test",
+  "description": "Provisional JSON para comprobar Pages",
+  "apps": [
+    {
+      "id": "placeholder.app",
+      "name": "Placeholder App",
+      "developerName": "MegaSource",
+      "version": "0.0.1",
+      "bundleIdentifier": "com.m264921.placeholder",
+      "subtitle": "Solo para validar Pages",
+      "description": "Esta app de ejemplo permite verificar que GitHub Pages está entregando correctamente el JSON.",
+      "iconURL": "https://raw.githubusercontent.com/m264921/MegaSource/main/icon.png",
+      "screenshotURLs": [],
+      "downloadURL": "https://example.com/placeholder.ipa",
+      "localizedDescription": "Placeholder temporal mientras se genera el catálogo real.",
+      "size": 1,
+      "permissions": [],
+      "developerWebsite": "https://github.com/m264921",
+      "versions": []
+    }
   ]
 }

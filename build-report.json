@@ -1,0 +1,192 @@
+[
+  {
+    "url": "https://ipa.cypwn.xyz/cypwn.json",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 209,
+    "rejectionReasons": {
+      "Missing app localizedDescription": 3,
+      "Missing version date": 206
+    }
+  },
+  {
+    "url": "https://bit.ly/Quantumsource",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 0,
+    "rejectionReasons": {},
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>"
+  },
+  {
+    "url": "https://bit.ly/Quantumsource-plus",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 0,
+    "rejectionReasons": {},
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>"
+  },
+  {
+    "url": "https://bit.ly/wuxuslibraryplus",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 0,
+    "rejectionReasons": {},
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>"
+  },
+  {
+    "url": "https://bit.ly/Altstore-complete",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 0,
+    "rejectionReasons": {},
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>"
+  },
+  {
+    "url": "https://altstore.oatmealdome.me/",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 2,
+    "rejectionReasons": {
+      "Missing appPermissions; upstream must declare permissions": 2
+    }
+  },
+  {
+    "url": "https://flyinghead.github.io/flycast-builds/altstore.json",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 1,
+    "rejectionReasons": {
+      "Missing version date": 1
+    }
+  },
+  {
+    "url": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 7,
+    "rejectionReasons": {
+      "Missing version date": 7
+    }
+  },
+  {
+    "url": "https://alts.lao.sb",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 1,
+    "rejectionReasons": {
+      "Missing version date": 1
+    }
+  },
+  {
+    "url": "https://floridaman7588.me/altjb/altsource.json",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 0,
+    "rejectionReasons": {},
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "url": "https://pokemmo.com/altstore/",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 1,
+    "rejectionReasons": {
+      "Missing version date": 1
+    }
+  },
+  {
+    "url": "https://alt.getutm.app",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 2,
+    "rejectionReasons": {
+      "Missing appPermissions; upstream must declare permissions": 2
+    }
+  },
+  {
+    "url": "https://theodyssey.dev/altstore/odysseysource.json",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 2,
+    "rejectionReasons": {
+      "Missing version date": 2
+    }
+  },
+  {
+    "url": "https://taurine.app/altstore/taurinestore.json",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 1,
+    "rejectionReasons": {
+      "Missing version date": 1
+    }
+  },
+  {
+    "url": "https://altstore.9ani.app",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 0,
+    "rejectionReasons": {},
+    "error": "The read operation timed out"
+  },
+  {
+    "url": "https://randomblock1.com/altstore/apps.json",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 8,
+    "rejectionReasons": {
+      "Missing version date": 8
+    }
+  },
+  {
+    "url": "https://provenance-emu.com/apps.json",
+    "accepted": 2,
+    "duplicates": 0,
+    "rejected": 2,
+    "rejectionReasons": {
+      "Missing appPermissions; upstream must declare permissions": 2
+    }
+  },
+  {
+    "url": "https://bit.ly/40Isul6",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 0,
+    "rejectionReasons": {},
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>"
+  },
+  {
+    "url": "https://ish.app/altstore.json",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 1,
+    "rejectionReasons": {
+      "Missing version date": 1
+    }
+  },
+  {
+    "url": "https://community-apps.sidestore.io/sidecommunity.json",
+    "accepted": 2,
+    "duplicates": 0,
+    "rejected": 21,
+    "rejectionReasons": {
+      "Missing appPermissions; upstream must declare permissions": 21
+    }
+  },
+  {
+    "url": "https://repo.starfiles.co/public?gbox",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 0,
+    "rejectionReasons": {},
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://repo.apptesters.org",
+    "accepted": 0,
+    "duplicates": 0,
+    "rejected": 0,
+    "rejectionReasons": {},
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  }
+]
